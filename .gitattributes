@@ -1,0 +1,6 @@
+* text=auto eol=lf
+resources/** -text
+*.png binary
+*.ttf binary
+*.meowtils binary
+*.zip binary

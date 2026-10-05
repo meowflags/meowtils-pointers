@@ -1,0 +1,3 @@
+0cd91e2547db1629dd1efe7c458d0692843c89d908e74c19dd41d80bde1fbe81  Pointers-1.29-with-TenacityGUI-1.2.4.zip
+7c7f96876a780856e517c59e164c79af8e178b89da474a58dfb89f4c8ec8b391  PointersExtension-1.29.meowtils
+ff42e58058f25ecef3d4cffe0b4b3e4710f26188beadd9146900b2ffe9a46605  TenacityGUI-1.2.4.meowtils
