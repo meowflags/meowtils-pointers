@@ -10,13 +10,6 @@ Creator: **@futyimoso**. Made with the help of **GPT-6.1 Sol Ultra**.
 
 [Download the latest release](https://github.com/meowflags/meowtils-pointers/releases/latest).
 
-Requires **Minecraft 1.8.9, Forge, and Meowtils**. Tested with Meowtils 2.0.1.
-
-1. Close Minecraft.
-2. Put `PointersExtension-1.29.meowtils` in your instance's `minecraft/meowtils/extensions` folder.
-3. If you use TenacityGUI, put the included `TenacityGUI-1.2.4.meowtils` there too.
-4. Remove older Pointers and TenacityGUI files from that folder, then restart Minecraft.
-
 With the original Meowtils GUI, you only need the Pointers file. No separate pointer textures or fonts are needed.
 
 **TenacityGUI users:** the original, unmodified TenacityGUI does not display the custom live preview, color arrows, or heart controls. The included compatibility version adds support for them. Its other GUI functionality is retained.
